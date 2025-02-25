@@ -51,6 +51,9 @@ The dataset comprises multiple tables, each serving a distinct purpose and conta
 The data from the **Rapid API** Hub and **Cricbuzz** is retrieved using API calls, where each call pulls specific data (like live scores or player information) into the Power BI dataset. The dataset updates dynamically, reflecting the **real-time changes** in the IPL 2024 matches, ensuring that the dashboard provides live and accurate information.
 
 
+---
+
+
 ## Structuring the Report
 The report consists of two primary pages: a live dashboard showcasing real-time IPL 2024 match data and a points table page providing team rankings and detailed performance metrics.
 
@@ -93,7 +96,9 @@ This section adds a deeper level of insight by showing the number of 4s, 6s, and
 - Tooltips are provided for each batsman and bowler to enhance interactivity, displaying additional information when hovering over their names.
 - This real-time feature allows users to access more details without cluttering the main screen.
 
+
 ---
+
 
 ### 2. Points Table Page
 This page offers an overview of the IPL 2024 team standings and performance metrics. It is designed to give users a clear understanding of the tournament's current state. The page is divided into two main sections: the top section displays the tournament points table and the bottom section highlights individual team performance.

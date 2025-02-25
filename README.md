@@ -11,7 +11,7 @@ Addressing this challenge involves developing a unified and user-friendly dashbo
 
 Link to published Power BI report:  
 
-https://app.powerbi.com/groups/me/reports/d38e09c3-1569-4531-9f64-ce9d9e5e8c4a/ReportSectione5427cc19ba91920038e?experience=power-bi
+https://app.powerbi.com/groups/me/reports/c8a1ae55-a9a2-4261-b133-a168b215df47/ReportSectionc0bfc7cbd37f06556737?experience=power-bi
 
 ---
 

@@ -1,0 +1,16 @@
+IPL Dashboard
+Link:
+https://app.powerbi.com/groups/me/reports/d38e09c3-1569-4531-9f64-ce9d9e5e8c4a/ReportSectione5427cc19ba91920038e?experience=power-bi
+
+1. Use Cricbuzz Cricket api and using M-language, fetch matches list, live score data , scorecard
+2. Rename columns, filter out null, expand necessary records and remove unnecessary columns, 
+3. Make 1 batsman and 1 for bowlers who are references of live match list . 
+4. Create measures for 2 innings of a match. Measures are BattingTeamName, Score, RunRate
+
+5. Visual to handle and show innings one at a time and change automatically
+6. Create different measures like runrate, score, teamname(bat and bowl) and control them
+   using a third measure which have IF condition based on current inning.
+
+7. Place Cards for Images
+8. Fetch url of points table from rapidapi.
+9. To change Logo Image url value to actual image, click on that column name-> Column Tools-> Data Category->Image URL

@@ -13,6 +13,9 @@ Link to published Power BI report:
 
 https://app.powerbi.com/groups/me/reports/c8a1ae55-a9a2-4261-b133-a168b215df47/ReportSectionc0bfc7cbd37f06556737?experience=power-bi
 
+
+![](https://github.com/Amjt11/IPL_Live-Dashboard/blob/main/images/Screenshot%202025-02-25%20145643.png)
+
 ---
 
 ## Leveraging Data Sources
@@ -54,6 +57,10 @@ The report consists of two primary pages: a live dashboard showcasing real-time 
 ### 1. Live Match Score Page
 This section shows the current score of the ongoing match, including runs scored, wickets taken, overs bowled, and target (if batting second). It updates in real time, giving users an up-to-date view of the match's progress.
 
+
+![](https://github.com/Amjt11/IPL_Live-Dashboard/blob/main/images/LiveDashboardPage.png)
+
+
 #### A)    Playing Batsmen
 
 - This section highlights the current batsmen at the crease, providing their individual scores, including runs scored, balls faced, and strike rate.
@@ -88,6 +95,10 @@ This section adds a deeper level of insight by showing the number of 4s, 6s, and
 
 ### 2. Points Table Page
 This page offers an overview of the IPL 2024 team standings and performance metrics. It is designed to give users a clear understanding of the tournament's current state. The page is divided into two main sections: the top section displays the tournament points table and the bottom section highlights individual team performance.
+
+
+![](https://github.com/Amjt11/IPL_Live-Dashboard/blob/main/images/PointsTablePage.png)
+
 
  #### A)    Top Section: Tournament Points Table
 

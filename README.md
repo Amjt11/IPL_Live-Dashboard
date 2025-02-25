@@ -93,6 +93,8 @@ This section adds a deeper level of insight by showing the number of 4s, 6s, and
 - Tooltips are provided for each batsman and bowler to enhance interactivity, displaying additional information when hovering over their names.
 - This real-time feature allows users to access more details without cluttering the main screen.
 
+---
+
 ### 2. Points Table Page
 This page offers an overview of the IPL 2024 team standings and performance metrics. It is designed to give users a clear understanding of the tournament's current state. The page is divided into two main sections: the top section displays the tournament points table and the bottom section highlights individual team performance.
 

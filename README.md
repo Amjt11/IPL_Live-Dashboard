@@ -9,7 +9,9 @@ The Indian Premier League (IPL) 2024 lacks a unified platform offering real-time
 Addressing this challenge involves developing a unified and user-friendly dashboard that provides comprehensive IPL-related information in real time. Such a dashboard would empower users with up-to-date match scores, player statistics, and team rankings, catering to a diverse audience that includes casual fans and seasoned analysts. Bridging this gap would enhance user engagement throughout the IPL 2024 season.
 
 
-Link to published Power BI report:  https://app.powerbi.com/groups/me/reports/d38e09c3-1569-4531-9f64-ce9d9e5e8c4a/ReportSectione5427cc19ba91920038e?experience=power-bi
+Link to published Power BI report:  
+
+https://app.powerbi.com/groups/me/reports/d38e09c3-1569-4531-9f64-ce9d9e5e8c4a/ReportSectione5427cc19ba91920038e?experience=power-bi
 
 ---
 

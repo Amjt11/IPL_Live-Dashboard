@@ -104,34 +104,34 @@ This page offers an overview of the IPL 2024 team standings and performance metr
 
 This section presents the overall standings of the IPL teams. It includes the following columns:
 
-**Team Name**: Lists the names of the participating teams.
+- **Team Name**: Lists the names of the participating teams.
 
-**Matches Played**: The total number of matches each team has played.
+- **Matches Played**: The total number of matches each team has played.
 
-**Wins**: The total number of matches won by each team.
+- **Wins**: The total number of matches won by each team.
 
-**Losses**: The total number of matches each team has lost.
+- **Losses**: The total number of matches each team has lost.
 
-**Points**: The accumulated points are based on wins and losses.
+- **Points**: The accumulated points are based on wins and losses.
 
-**Net Run Rate (NRR)**: Indicates the net run rate, a key metric for ranking teams with equal points.
+- **Net Run Rate (NRR)**: Indicates the net run rate, a key metric for ranking teams with equal points.
 
 
 #### B)    Bottom Section: Team Performance Details
 
 This section provides more detailed information about each team, including the following columns:
 
-**Captain**: The name of the team's captain, along with an image for easier identification.
+- **Captain**: The name of the team's captain, along with an image for easier identification.
 
-**Matches Played**: The total number of matches the team has played in the tournament.
+- **Matches Played**: The total number of matches the team has played in the tournament.
 
-**Wins**: The total number of matches won.
+- **Wins**: The total number of matches won.
 
-**Losses**: The total number of matches lost.
+- **Losses**: The total number of matches lost.
 
-**Points**: The points accrued based on the tournament rules.
+- **Points**: The points accrued based on the tournament rules.
 
-**Net Run Rate (NRR)**: Displays the team's net run rate.
+- **Net Run Rate (NRR)**: Displays the team's net run rate.
 
 This section allows users to quickly understand the performance of individual teams, including their captains, win-loss records, and other crucial statistics.
 
